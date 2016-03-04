@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Experience Firm]]></title>
         <description><![CDATA[The Experience Firm]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-experience-firm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 21:30:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 21:36:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-experience-firm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is a test</p>]]></description>
-            <link>undefined226fd9ef-33ad-43e1-a5df-9c5227deea64/index.html</link>
+            <title><![CDATA[WE DELIGHT IN WHAT WHAT DELIGHTS PEOPLE.]]></title>
+            <description><![CDATA[<article><h1>WE DELIGHT IN WHAT WHAT DELIGHTS PEOPLE.</h1><h2>It's who we are. It's what we do.</h2><p>A talent agency for problem-solvers.</p></article>]]></description>
+            <link>https://thegrid.ai/the-experience-firm/226fd9ef-33ad-43e1-a5df-9c5227deea64/index.html</link>
             <guid isPermaLink="false">226fd9ef-33ad-43e1-a5df-9c5227deea64</guid>
-            <pubDate>Fri, 04 Mar 2016 21:30:20 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 21:36:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
